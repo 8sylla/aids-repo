@@ -17,17 +17,17 @@ Ce dépôt contient tout le matériel nécessaire pour suivre et refaire l'ateli
 *   **`/data`**:
     *   `Housing.csv` : Le dataset principal utilisé pour l'analyse et la modélisation.
     *   `Housing_Simple.csv` : Le mini-dataset utilisé pour l'introduction à la régression.
-*   **`/assets`**:
-    *   Contient les images et schémas utilisés dans ce README.
+*   **`/*.png`**:
+    *   Les images et schémas utilisés dans ce README.
 
 ---
 
-## 🔬 L'Écosystème de la Data Science
+## 🔬 L'Écosystème de l'IA
 
 Pour bien commencer, il est essentiel de comprendre où se situe le Machine Learning dans l'univers de la Data. Notre voyage se concentre principalement sur l'Analyse de Données et la Modélisation.
 
-![Écosystème de la Data Science](assets/ecosysteme.png)
-*(Légende : Ce schéma illustre les 4 piliers d'un projet data : la Collecte, l'Analyse, la Modélisation (ML) et le Déploiement.)*
+![Écosystème de la Data Science](/ECO-SYS.png)
+*(Légende : Ce schéma illustre l'Écosystème.)*
 
 ---
 
@@ -35,7 +35,7 @@ Pour bien commencer, il est essentiel de comprendre où se situe le Machine Lear
 
 Nous avons suivi un workflow complet, allant de la compréhension du problème à l'interprétation du modèle. C'est le pipeline standard pour la plupart des projets de Data Science.
 
-![Pipeline d'un projet de Data Science](assets/pipeline.png)
+![Pipeline d'un projet de Data Science](/machine-learning-pipeline.png)
 
 ### Étapes clés que nous avons couvertes en direct :
 1.  **Exploration de Données (EDA)** : Comprendre et visualiser les relations dans nos données.
@@ -52,12 +52,12 @@ Un modèle n'est utile que si l'on peut mesurer sa performance et comprendre ses
 
 ### Métriques d'Évaluation
 Nous avons utilisé des métriques clés pour évaluer notre modèle de régression :
-![Métriques d'évaluation](assets/evaluateurs.png)
+![Métriques d'évaluation](/EVALUATION.png)
 *(Légende : Le R² nous indique la proportion de la variance expliquée par le modèle, tandis que la MAE/RMSE nous donne l'erreur de prédiction moyenne.)*
 
 ### Biais vs. Variance : Le Dilemme du Data Scientist
 Tout l'art du Machine Learning réside dans la recherche du bon équilibre entre le biais et la variance pour éviter le sur-ajustement (Overfitting) ou le sous-ajustement (Underfitting).
-![Biais vs Variance](assets/fitting.png)
+![Biais vs Variance](/FITING-PROB.png)
 *   **Underfitting (Biais élevé)** : Le modèle est trop simple et ne capture pas la tendance des données.
 *   **Overfitting (Variance élevée)** : Le modèle a "appris par cœur" les données d'entraînement, y compris le bruit, et ne généralise pas bien sur de nouvelles données.
 
@@ -73,7 +73,7 @@ Tout l'art du Machine Learning réside dans la recherche du bon équilibre entre
 2.  **Ouvrez le Notebook dans Google Colab :**
     *   Allez sur [colab.research.google.com](https://colab.research.google.com).
     *   Cliquez sur `Fichier` > `Importer un notebook`.
-    *   Allez dans l'onglet `GitHub`, collez l'URL de ce dépôt et sélectionnez le fichier `Masterclass_ML_Fundamentals.ipynb` dans le dossier `/notebook`.
+    *   Allez dans l'onglet `GitHub`, collez l'URL de ce dépôt et sélectionnez le fichier `House_Prices_CODE_MATRIX.ipynb` dans le dossier `/notebook`.
 3.  **Uploadez les Données :**
     *   Dans l'environnement Colab, utilisez l'icône de dossier sur la gauche pour uploader les fichiers CSV du dossier `/data`.
 4.  **Exécutez les cellules !**
