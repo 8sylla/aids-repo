@@ -80,7 +80,7 @@ Tout l'art du Machine Learning réside dans la recherche du bon équilibre entre
 
 ---
 
-## 🎤 À Propos du Formateur
+## Contactez 😁
 
 **Sylla N'faly**  
 Élève ingénieur en Génie Informatique à l'ENSA Tanger, passionné par la Data Science, l'IA et le développement d'applications qui ont un impact.
