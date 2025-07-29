@@ -85,8 +85,8 @@ Tout l'art du Machine Learning réside dans la recherche du bon équilibre entre
 **Sylla N'faly**  
 Élève ingénieur en Génie Informatique à l'ENSA Tanger, passionné par la Data Science, l'IA et le développement d'applications qui ont un impact.
 
-*   **LinkedIn :** [linkedin.com/in/nfaly-sylla](https://linkedin.com/in/nfaly-sylla)
-*   **Instagram :** [@sylla.rmss](https://www.instagram.com/sylla.rmss/)
+*   **LinkedIn :** [linkedin.com/in/nfaly-sylla](https://linkedin.com/in/8sylla)
+*   **Instagram :** [@sylla.rmss](https://www.instagram.com/8sylla/)
 
 N'hésitez pas à me contacter pour toute question ou pour échanger sur ces sujets passionnants !
 
