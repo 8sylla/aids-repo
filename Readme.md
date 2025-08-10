@@ -1,6 +1,6 @@
 # 🚀 CODE "MATRIX" : Ateliers sur l'IA et la Data Science
 
-![Code Matrix Banner]([https://i.ibb.co/XYZ/banner.png](https://media.licdn.com/dms/image/v2/D560BAQGc_Vs-VuVxag/company-logo_200_200/B56ZYWRodxGUAM-/0/1744130443673?e=1757548800&v=beta&t=VweJKMMB6YuIXAi8kn2vvuCgcEKf9sspF36HMTm2cfA) 
+![Code Matrix Banner](https://media.licdn.com/dms/image/v2/D560BAQGc_Vs-VuVxag/company-logo_200_200/B56ZYWRodxGUAM-/0/1744130443673?e=1757548800&v=beta&t=VweJKMMB6YuIXAi8kn2vvuCgcEKf9sspF36HMTm2cfA) 
 
 https://media.licdn.com/dms/image/v2/D560BAQGc_Vs-VuVxag/company-logo_200_200/B56ZYWRodxGUAM-/0/1744130443673?e=1757548800&v=beta&t=VweJKMMB6YuIXAi8kn2vvuCgcEKf9sspF36HMTm2cfA
 
