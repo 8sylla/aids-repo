@@ -2,6 +2,8 @@
 
 ![Code Matrix Banner]([https://i.ibb.co/XYZ/banner.png](https://media.licdn.com/dms/image/v2/D560BAQGc_Vs-VuVxag/company-logo_200_200/B56ZYWRodxGUAM-/0/1744130443673?e=1757548800&v=beta&t=VweJKMMB6YuIXAi8kn2vvuCgcEKf9sspF36HMTm2cfA) 
 
+https://media.licdn.com/dms/image/v2/D560BAQGc_Vs-VuVxag/company-logo_200_200/B56ZYWRodxGUAM-/0/1744130443673?e=1757548800&v=beta&t=VweJKMMB6YuIXAi8kn2vvuCgcEKf9sspF36HMTm2cfA
+
 Bienvenue dans le dépôt central des ateliers de l'initiative **CODE "MATRIX"**, animé par **N'faly Sylla**. Cet espace rassemble toutes les ressources, codes et présentations de nos sessions de live coding dédiées à l'exploration de l'Intelligence Artificielle, du Machine Learning et du Deep Learning.
 
 Notre mission est de démystifier des sujets complexes en adoptant une approche pratique, narrative et accessible à tous.
