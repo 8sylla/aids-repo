@@ -67,7 +67,7 @@ Tout l'art du Machine Learning réside dans la recherche du bon équilibre entre
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone https://github.com/rmss00-2synf/aids-repo.git
+    git clone https://github.com/8sylla/aids-repo.git
     cd aids-repo
     ```
 2.  **Ouvrez le Notebook dans Google Colab :**
