@@ -29,13 +29,14 @@ Ce dépôt contient les 3 notebooks Google Colab utilisés pendant l'atelier. Ch
 -   **Concepts clés :** Traitement de séquences, Padding, Couches `Embedding`, `LSTM`, `Bidirectional`.
 -   **Projet :** Construction d'un modèle LSTM pour l'analyse de sentiments sur des critiques de films.
 
+<!--
 ### 3. [**Acte IV : L'Artefact Ultime (Image Captioning Showcase)**](./03_Image_Captioning_Showcase.ipynb)
 **Objectif :** Assister à la synergie de nos deux créations pour accomplir une tâche spectaculaire.
 -   **Concepts clés :** Architecture Encodeur-Décodeur, Transfer Learning (avec InceptionV3), génération de texte conditionnée par une image.
 -   **Projet :** Démonstration d'un modèle pré-entraîné qui génère des légendes pour des images.
 
 ---
-
+-->
 ## 🛠️ Comment Utiliser ce Dépôt
 
 1.  **Clonez le dépôt :**
