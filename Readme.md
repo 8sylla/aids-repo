@@ -61,7 +61,7 @@ Découvrez ci-dessous la liste des sessions disponibles. Chaque dossier contient
 
 ## 👨‍💻 À Propos de l'Animateur
 
-Je suis **N'faly Sylla**, élève ingénieur en Génie Informatique à l'ENSA Tanger et passionné par la transmission des savoirs en IA et Data Science. Mon objectif est de rendre ces technologies compréhensibles et accessibles.
+Je suis **N'faly Sylla**, élève ingénieur en Génie Informatique à l'ENSA Tanger.
 
 *   **LinkedIn :** [linkedin.com/in/8sylla](https://linkedin.com/in/8sylla)
 *   **GitHub :** [@8sylla](https://github.com/8sylla)
