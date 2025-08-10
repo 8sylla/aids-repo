@@ -61,4 +61,4 @@ Ce dépôt contient les 3 notebooks Google Colab utilisés pendant l'atelier. Ch
 
 ## 📜 Utilisation
 
-Vous êtes libre de l'utiliser, de le modifier et de le distribuer. Voir le fichier `LICENSE` pour plus de détails.
+Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
