@@ -31,7 +31,6 @@ Découvrez ci-dessous la liste des sessions disponibles. Chaque dossier contient
 *   **Projets :**
     1.  Reconnaissance de chiffres manuscrits (CNN).
     2.  Analyse de sentiments dans des textes (LSTM).
-    3.  *Showcase :* Génération de légendes d'images (CNN + LSTM).
 
 ➡️ **[Accéder aux ressources de la Session 2](./ML-SC-2/)**
 
